@@ -1,6 +1,7 @@
 remote_theme: pages-themes/slate@v0.2.0
 title: Vojta Karen's personal website
 description: This is Vojta Karen's personal website.
-
+github:
+  is_project_page: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
